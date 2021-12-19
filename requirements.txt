@@ -1,0 +1,3 @@
+Flask==1.1.2
+streamlit==0.64.0
+sympy==1.9

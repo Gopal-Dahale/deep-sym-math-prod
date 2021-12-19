@@ -1,14 +1,10 @@
 # For deployment
-from math import exp
 import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
 import sympy as sp
 
 # use streamlit run app.py to run the app
 
 # creating a basic flask server
-import numpy as np
 
 from flask import Flask
 
